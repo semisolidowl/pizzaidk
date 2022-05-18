@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pizza(idk)</string>
+    <string name="custom_pizza_order">Custom Pizza Order</string>
+    <string name="pizzaCost">Cost: 7.00CHF</string>
+</resources>
